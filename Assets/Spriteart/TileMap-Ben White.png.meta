@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 9232219754f9fe246a1426cf3470b594
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4388087860195857901
+    second: TileMap-Ben White_0
+  - first:
+      213: 7473907270615873553
+    second: TileMap-Ben White_1
+  - first:
+      213: -1285563323245147802
+    second: TileMap-Ben White_2
+  - first:
+      213: -3714949572295086194
+    second: TileMap-Ben White_3
+  - first:
+      213: -5740840539948658929
+    second: TileMap-Ben White_4
+  - first:
+      213: -2887773282957546979
+    second: TileMap-Ben White_5
+  - first:
+      213: 871927225188934151
+    second: TileMap-Ben White_6
+  - first:
+      213: 3445757580464139822
+    second: TileMap-Ben White_7
+  - first:
+      213: -1482747604208823070
+    second: TileMap-Ben White_8
+  - first:
+      213: 4863754980986196276
+    second: TileMap-Ben White_9
+  - first:
+      213: 4047913275469665130
+    second: TileMap-Ben White_10
+  - first:
+      213: 6506241880435535389
+    second: TileMap-Ben White_11
+  - first:
+      213: -1211391075216463453
+    second: TileMap-Ben White_12
+  - first:
+      213: 1105870315501338531
+    second: TileMap-Ben White_13
+  - first:
+      213: 4906579172369798104
+    second: TileMap-Ben White_14
+  - first:
+      213: -9066061150921646404
+    second: TileMap-Ben White_15
+  - first:
+      213: -6663980936832348591
+    second: TileMap-Ben White_16
+  - first:
+      213: -3892136398295593575
+    second: TileMap-Ben White_17
+  - first:
+      213: -8888439261087305940
+    second: TileMap-Ben White_18
+  - first:
+      213: 5718186578596832467
+    second: TileMap-Ben White_19
+  - first:
+      213: -2449032511361533546
+    second: TileMap-Ben White_20
+  - first:
+      213: -761480812626034151
+    second: TileMap-Ben White_21
+  - first:
+      213: 6569200932092131540
+    second: TileMap-Ben White_22
+  - first:
+      213: 5120980997060858179
+    second: TileMap-Ben White_23
+  - first:
+      213: 5790450199818527256
+    second: TileMap-Ben White_24
+  - first:
+      213: 5691454485410803840
+    second: TileMap-Ben White_25
+  - first:
+      213: 5691113378092900401
+    second: TileMap-Ben White_26
+  - first:
+      213: 531987452552118203
+    second: TileMap-Ben White_27
+  - first:
+      213: -5123114786416652489
+    second: TileMap-Ben White_28
+  - first:
+      213: 3254641140572416779
+    second: TileMap-Ben White_29
+  - first:
+      213: -8856035847704582877
+    second: TileMap-Ben White_30
+  - first:
+      213: -7601001874554724503
+    second: TileMap-Ben White_31
+  - first:
+      213: 2280137637780846937
+    second: TileMap-Ben White_32
+  - first:
+      213: -2452146018601129638
+    second: TileMap-Ben White_33
+  - first:
+      213: 4466519594639164290
+    second: TileMap-Ben White_34
+  - first:
+      213: 2494304617552239871
+    second: TileMap-Ben White_35
+  - first:
+      213: -8784835629535801557
+    second: TileMap-Ben White_36
+  - first:
+      213: -5597314397427767472
+    second: TileMap-Ben White_37
+  - first:
+      213: -5643814574123482511
+    second: TileMap-Ben White_38
+  - first:
+      213: 3203764365044335650
+    second: TileMap-Ben White_39
+  - first:
+      213: 3895301067603645140
+    second: TileMap-Ben White_40
+  - first:
+      213: 6763888378368943338
+    second: TileMap-Ben White_41
+  - first:
+      213: -8422070157333028851
+    second: TileMap-Ben White_42
+  - first:
+      213: 6489276464104061782
+    second: TileMap-Ben White_43
+  - first:
+      213: 8766154240305841539
+    second: TileMap-Ben White_44
+  - first:
+      213: 6433886919645049451
+    second: TileMap-Ben White_45
+  - first:
+      213: -4204656788936182864
+    second: TileMap-Ben White_46
+  - first:
+      213: -5186657875572509692
+    second: TileMap-Ben White_47
+  - first:
+      213: -5482525774913571236
+    second: TileMap-Ben White_48
+  - first:
+      213: -4598459714820081828
+    second: TileMap-Ben White_49
+  - first:
+      213: -449874604889880365
+    second: TileMap-Ben White_50
+  - first:
+      213: 6557815076369781000
+    second: TileMap-Ben White_51
+  - first:
+      213: -2595819002117166171
+    second: TileMap-Ben White_52
+  - first:
+      213: -1530256413707293737
+    second: TileMap-Ben White_53
+  - first:
+      213: 6103987710965344746
+    second: TileMap-Ben White_54
+  - first:
+      213: 3215914206480825248
+    second: TileMap-Ben White_55
+  - first:
+      213: 5443566979478035091
+    second: TileMap-Ben White_56
+  - first:
+      213: 8165985410414003000
+    second: TileMap-Ben White_57
+  - first:
+      213: -8988737435918537348
+    second: TileMap-Ben White_58
+  - first:
+      213: -2715725919672533574
+    second: TileMap-Ben White_59
+  - first:
+      213: -1307690880834877806
+    second: TileMap-Ben White_60
+  - first:
+      213: -123599791744639703
+    second: TileMap-Ben White_61
+  - first:
+      213: -9188320028207637185
+    second: TileMap-Ben White_62
+  - first:
+      213: -3693414423171980259
+    second: TileMap-Ben White_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap-Ben White_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a62d917516a13c0800000000000000
+      internalID: -4388087860195857901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b44d6017a8b760800000000000000
+      internalID: 7473907270615873553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669c3bdf7f2c82ee0800000000000000
+      internalID: -1285563323245147802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8facd0fb09d17cc0800000000000000
+      internalID: -3714949572295086194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc238f1ff6450b0800000000000000
+      internalID: -5740840539948658929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa37dcf719ce7d0800000000000000
+      internalID: -2887773282957546979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702e06f0135b91c00800000000000000
+      internalID: 871927225188934151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eaca5534ac1df20800000000000000
+      internalID: 3445757580464139822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4529fe8e83c6be0800000000000000
+      internalID: -1482747604208823070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431183cc2678f7340800000000000000
+      internalID: 4863754980986196276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6315f16da31d2830800000000000000
+      internalID: 4047913275469665130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e212ac480da4a50800000000000000
+      internalID: 6506241880435535389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e4ad3c36403fe0800000000000000
+      internalID: -1211391075216463453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af3b1b5137d85f00800000000000000
+      internalID: 1105870315501338531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39e67d2cba71440800000000000000
+      internalID: 4906579172369798104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9853da61ee2280800000000000000
+      internalID: -9066061150921646404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e022e25a8c483a0800000000000000
+      internalID: -6663980936832348591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap-Ben White_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0932319a5cf9c0800000000000000
+      internalID: -3892136398295593575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
